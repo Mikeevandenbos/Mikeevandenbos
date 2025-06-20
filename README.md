@@ -36,9 +36,6 @@ Interests:  ["Powershell", "Malware Analysis", "CyberSecurity", "Linux", "Pentes
 
 <!-- Skills ( Languages & Tools ) -->
 
-<!-- ###########################################  ########################################### -->
-![Snake animation](https://github.com/mikeevandenbos/mikeevandenbos/blob/output/github-contribution-grid-snake.svg)
-
 <details>
     <summary style="font-size: 20px; font-weight: bold;">More About Me</summary>
     Will be filled later.
