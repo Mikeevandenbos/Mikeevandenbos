@@ -21,7 +21,7 @@ Interests:  ["Powershell", "Malware Analysis", "CyberSecurity", "Linux", "Pentes
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Arch](https://skillicons.dev/icons?i=arch)](https://www.archlinux.org/)
 [![windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
-[![C#]((https://go-skill-icons.vercel.app/api/icons?i=cs )](https://dotnet.microsoft.com/en-us/languages/csharp/)
+[![C#](https://go-skill-icons.vercel.app/api/icons?i=cs )](https://dotnet.microsoft.com/en-us/languages/csharp/)
 [![Python](https://skillicons.dev/icons\?i\=python)](https://www.python.org/)
 [![Markdown](https://skillicons.dev/icons\?i\=markdown)](https://www.markdownguide.org/)
 [![powerShell](https://skillicons.dev/icons\?i\=powershell)](https://docs.microsoft.com/en-us/powershell/)
