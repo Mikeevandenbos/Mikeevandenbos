@@ -11,7 +11,7 @@
 Name:       Mike van den Bos
 Job Title:  Cyber Security Engineer
 Department: Information Technology (IT)
-Interests:  ["Powershell", "Malware Analysis", "CyberSecurity", "Linux", "Pentesting", "Azure"]
+Interests:  ["Powershell", "Python", "CyberSecurity", "Linux", "SecOps", "Azure"]
   ```
 <img src="images/Lines.gif" alt="Lines">
 <!-- Skills ( Languages & Tools ) -->
