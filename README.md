@@ -21,7 +21,6 @@ Interests:  ["Powershell", "Python", "CyberSecurity", "Linux", "SecOps", "Azure"
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Arch](https://skillicons.dev/icons?i=arch)](https://www.archlinux.org/)
 [![windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
-[![C#](https://go-skill-icons.vercel.app/api/icons?i=cs )](https://dotnet.microsoft.com/en-us/languages/csharp/)
 [![Python](https://skillicons.dev/icons\?i\=python)](https://www.python.org/)
 [![Markdown](https://skillicons.dev/icons\?i\=markdown)](https://www.markdownguide.org/)
 [![powerShell](https://skillicons.dev/icons\?i\=powershell)](https://docs.microsoft.com/en-us/powershell/)
@@ -38,5 +37,5 @@ Interests:  ["Powershell", "Python", "CyberSecurity", "Linux", "SecOps", "Azure"
 
 <details>
     <summary style="font-size: 20px; font-weight: bold;">More About Me</summary>
-    Will be filled later.
+    I like building things that make life easier and safer. Whether it’s improving processes or strengthening security, I’m driven by curiosity and the satisfaction of solving real problems.
 </details>
